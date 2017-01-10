@@ -1,4 +1,5 @@
 #!/bin/bash
-python /opt/HelloService-master/HelloService.py
+cd /opt/HelloService-master/
+python HelloService.py
 
 
